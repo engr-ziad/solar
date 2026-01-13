@@ -1,0 +1,7 @@
+{
+  "name": "SolarCAD AI Designer",
+  "description": "An intelligent Solar Energy Engineer that designs Single Line Diagrams (SLD) through voice or text conversation, visualizing them in an AutoCAD-like interface.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
